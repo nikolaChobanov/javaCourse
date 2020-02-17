@@ -15,6 +15,6 @@ Hapax Legomena Ratio - броят на думите, срещащи се сам�
 
 ![alt text](https://github.com/nikolaChobanov/javaCourse/blob/master/AuthorshipDetection/formula.jfif)
 
-a и b са два лингвистични подписа
-fi,x e стойността на feature i в подписа x
-wi е теглото, асоцирано с feature i
+a и b са два лингвистични подписа.
+fi,x e стойността на feature i в подписа x.
+wi е теглото, асоцирано с feature i.
