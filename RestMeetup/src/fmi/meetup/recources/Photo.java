@@ -3,7 +3,7 @@ package fmi.meetup.recources;
 public class Photo {
 
     private long id;
-   // @SerializedName("photo_link");
+
    private String photo_link;
 
     public long getId() {
